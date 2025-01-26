@@ -27,7 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabalammansoori&show_icons=true&locale=en&layout=compact" alt="aftabalammansoori" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aftabalammansoori&show_icons=true&locale=en" alt="aftabalammansoori" /></p>
-
+<br>
+<br>
+<br>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting!;" />
 </h1>
