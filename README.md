@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aftab+Alam+Mansoori!;" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Aftab Alam Mansoori</h1>
+<h1 align="center"></h1>
 <h3 align="center">Passionate about transforming data into insights and driving informed decisions. I love to analyze, visualize, and uncover patterns within data.</h3>
 
 - 🔭 I’m currently working on **Netflix Power BI Dashboard**
