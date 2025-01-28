@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Netflix Power BI Dashboard**
 
-- 🌱 I’m currently learning **Jira, Alteryx**
+- 🌱 I’m currently learning **Big Data, Alteryx**
 
 - 💬 Ask me about **Python, SQL, Power BI, Excel**
 
