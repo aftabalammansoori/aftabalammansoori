@@ -5,13 +5,13 @@
 </h1>
 
 <h1 align="center"></h1>
-<h3 align="center">Passionate about transforming data into insights and driving informed decisions. I love to analyze, visualize, and uncover patterns within data.</h3>
+<h3 align="center">Passionate about creating modern and responsive website applicatons. I love to create, style,and design responsive websites. </h3>
 
-- 🔭 I’m currently working on **Netflix Power BI Dashboard**
+- 🔭 I’m currently working on **ReactJs Based Project**
 
-- 🌱 I’m currently learning **Big Data, Alteryx**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Python, SQL, Power BI, Excel**
+- 💬 Ask me about **HTML, CSS, SCSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **aftabalammansoorii@gmail.com**
 
