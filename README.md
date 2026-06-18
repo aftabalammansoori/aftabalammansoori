@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aftab Alam Mansoori</h1>
-<h3 align="center">Full-Stack Developer in the making | CDAC PG-DAC '26 | Java • Spring Boot • React</h3>
 
+<p align="center">
+  <a href="https://github.com/aftabalammansoori">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+in+the+making;CDAC+PG-DAC+%2726;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Open+to+SDE+Opportunities+%F0%9F%9A%80&center=true&width=600&height=45&color=00BFFF&vCenter=true&size=22" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aftabalammansoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -20,7 +24,7 @@
 
 ### 🔭 What I'm Working On
 
-- 🌱 **EcoLoop Nexus** — A full-stack smart waste management platform (React + Spring Boot + MySQL)
+- 🍴 **BreakBite** — Building a canteen slot-booking app for CDAC students (React + Node + MongoDB)
 - 📖 Learning **Spring Boot, Hibernate & REST API design** as part of CDAC's Web-based Java module
 - 🧠 Solving **DSA problems in Java** daily to prepare for placement interviews
 
@@ -65,11 +69,11 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌱 [**EcoLoop Nexus**](https://github.com/aftabalammansoori/ecoloop-nexus) | Smart waste management platform — citizens schedule pickups, vendors manage collections | React, Spring Boot, MySQL |
-| 🩺 [**Multiple Disease Prediction**](https://github.com/aftabalammansoori/Multiple-Disease-Prediction) | ML web app predicting diabetes, heart disease & Parkinson's | Python, Streamlit, scikit-learn |
-| 📊 [**Blinkit Analytics Dashboard**](https://github.com/aftabalammansoori/Blinkit-Analytics-Dashboard) | Sales & customer analytics dashboard for Blinkit grocery delivery | Power BI, Data Analysis |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🍴 [**BreakBite**](https://github.com/aftabalammansoori/breakbite) | Canteen slot-booking app for CDAC students — solves real queue problem | React, Node.js, Express, MongoDB | 🚧 Building |
+| 🩺 [**Multiple Disease Prediction**](https://github.com/aftabalammansoori/Multiple-Disease-Prediction) | ML web app predicting diabetes, heart disease & Parkinson's | Python, Streamlit, scikit-learn | ✅ Live |
+| 📊 [**Blinkit Analytics Dashboard**](https://github.com/aftabalammansoori/Blinkit-Analytics-Dashboard) | Sales & customer analytics for Blinkit grocery delivery | Power BI, Data Analysis | ✅ Done |
 
 ---
 
