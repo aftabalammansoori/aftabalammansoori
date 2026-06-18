@@ -1,16 +1,16 @@
 <!-- ===== HERO BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hi%20there%2C%20I'm%20Aftab%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=220&section=header&text=Hi%20there%2C%20I'm%20Aftab%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20cool%20things%20with%20code&descAlignY=58&descSize=18" />
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
+<!-- ===== TYPING ANIMATION (Fixed: demolab.com) ===== -->
 <p align="center">
   <a href="https://github.com/aftabalammansoori">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+in+the+making;CDAC+PG-DAC+%2726;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Open+to+SDE+Opportunities+%F0%9F%9A%80&center=true&width=600&height=45&color=00BFFF&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+in+the+making;CDAC+PG-DAC+'26+Student;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Open+to+SDE+Opportunities+%F0%9F%9A%80&center=true&width=600&height=50&color=00BFFF&vCenter=true&size=24&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ===== PROFILE VIEWS BADGE ===== -->
+<!-- ===== PROFILE VIEWS ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aftabalammansoori&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" />
 </p>
@@ -86,12 +86,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabalammansoori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aftab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aftabalammansoori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabalammansoori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabalammansoori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Diwali-wishes" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabalammansoori&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=Diwali-wishes,Foodie_Hamburger,aftabalammansoori.github.io,Simon_Game,Bill_Splitter,Rock-Paper-Scissor-Game" alt="Top Languages" />
 </p>
 
 ---
@@ -111,7 +111,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aftabalammansoori&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aftabalammansoori&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
