@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aftab Alam Mansoori</h1>
+<!-- ===== HERO BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hi%20there%2C%20I'm%20Aftab%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/aftabalammansoori">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+in+the+making;CDAC+PG-DAC+%2726;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Open+to+SDE+Opportunities+%F0%9F%9A%80&center=true&width=600&height=45&color=00BFFF&vCenter=true&size=22" />
   </a>
 </p>
+
+<!-- ===== PROFILE VIEWS BADGE ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aftabalammansoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aftabalammansoori&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" />
 </p>
 
 ---
@@ -90,32 +96,65 @@
 
 ---
 
----
-
 ### 🐍 Watch My Contributions Grow
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake.svg" />
-</picture>
-
----
-
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/aftabalammansoorii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aftabalammansoorii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aftabalammansoori.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aftabalammansoori/aftabalammansoori/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-<p align="center"><i>"The best way to predict the future is to build it." — Open to collaborate, learn, and grow. 🚀</i></p>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aftabalammansoori&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aftabalammansoorii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aftabalammansoorii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://aftabalammansoori.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/aftabalammansoori" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>💬 Open to: SDE roles | Collaborations | Mentorship</i>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to build it." — Open to collaborate, learn, and grow. 🚀</i>
+</p>
+
+<!-- ===== FOOTER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer" />
+</p>
